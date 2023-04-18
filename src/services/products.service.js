@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://dummyjson.com/products"
+const API_URL = "https://dummyjson.com/products"
 
 export const getAllProducts = () => {
 
