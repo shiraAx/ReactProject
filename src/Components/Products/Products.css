@@ -1,0 +1,23 @@
+/* .card{
+display: flex;
+flex-wrap: wrap;
+margin-top: 7%;
+margin-top: 1.5%;
+}
+#allProducts{
+    flex-grow: 1;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+} */
+Grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+.MuiGrid-container {
+   
+    justify-content: space-evenly;}
+    #mainDiv{
+margin: 3.5%;
+    }
